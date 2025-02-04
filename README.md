@@ -4,6 +4,8 @@
 #### The primary goal is to classify water samples as potable or non-potable using key features such as pH, hardness, chloramines, and solids
 ## The Video Presentation and the Doc
 ##video=
+
+
 ##Doc=https://docs.google.com/document/d/1cmJRIFkxvJqln_G5pVhyeymOF_ETF56ZcHz-L_Wzef8/edit?tab=t.0
 
 ## The model implementation
